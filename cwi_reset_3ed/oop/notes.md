@@ -1,0 +1,1 @@
+# Aqui serão realizadas anotações referentes aos conteúdos abordados sobre lógica de programação.
